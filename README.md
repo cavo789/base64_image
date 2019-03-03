@@ -2,7 +2,7 @@
 
 # base64_image
 
-https://base64_image.avonture.be
+https://base64image.avonture.be
 
 > You have a base64 code that corresponds to an image and you want to see the image? This utility will help you
 
