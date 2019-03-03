@@ -1,0 +1,23 @@
+{
+    "name": "avonture/base64_image",
+    "description": "Decode base64 encoded image",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christophe Avonture",
+            "email": "christophe@avonture.be"
+        }
+    ],
+    "homepage": "https://github.com/cavo789/base64_image",
+    "type": "homepage",
+    "keywords": [
+        "php",
+        "open source",
+        "base64",
+        "decode",
+        "image"
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
