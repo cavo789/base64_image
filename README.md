@@ -1,6 +1,6 @@
-![Banner](src/assets/banner.jpg)
-
 # base64_image
+
+![Banner](./banner.svg)
 
 https://base64image.avonture.be
 
